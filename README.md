@@ -3,7 +3,7 @@
 
 Realizar a visualização dos dados colhidos pelo sistema de monitoramento de fadiga.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/willHub99/safe-sleep/blob/main/assets/images_git/main_pages.svg)
 
 
 ## Autores
@@ -47,6 +47,6 @@ Inicie a Aplicação
 ## Demonstração
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/willHub99/safe-sleep/blob/main/assets/images_git/app_navigation.gif">
 </p>
 
