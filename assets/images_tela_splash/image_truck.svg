@@ -1,0 +1,19 @@
+<svg width="61" height="118" viewBox="0 0 61 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="30.5" cy="30.3093" rx="30.5" ry="30.3093" fill="#705BF4"/>
+<path d="M6.53566 48.9278L31.4336 84L54.4642 48.9278L31.4336 53.5253L6.53566 48.9278Z" fill="#705BF4"/>
+<ellipse cx="30.4999" cy="30.3093" rx="21.7857" ry="21.6495" fill="white"/>
+<g clip-path="url(#clip0_5_283)">
+<path d="M34.6789 21.2361H19.825V34.029H34.6789V21.2361Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.6789 26.1565H38.6399L41.6107 29.1087V34.029H34.6789V26.1565Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.2812 38.9494C25.6485 38.9494 26.7568 37.8479 26.7568 36.4892C26.7568 35.1305 25.6485 34.029 24.2812 34.029C22.9139 34.029 21.8055 35.1305 21.8055 36.4892C21.8055 37.8479 22.9139 38.9494 24.2812 38.9494Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.1545 38.9494C38.5218 38.9494 39.6302 37.8479 39.6302 36.4892C39.6302 35.1305 38.5218 34.029 37.1545 34.029C35.7873 34.029 34.6789 35.1305 34.6789 36.4892C34.6789 37.8479 35.7873 38.9494 37.1545 38.9494Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<circle cx="30" cy="107" r="11" fill="#DADADA" fill-opacity="0.5"/>
+<circle cx="30" cy="107" r="7.33333" fill="white"/>
+<circle cx="30" cy="107" r="3.66667" fill="#5531B9"/>
+<defs>
+<clipPath id="clip0_5_283">
+<rect width="23.9643" height="23.8144" fill="white" transform="translate(18.7357 18.1855)"/>
+</clipPath>
+</defs>
+</svg>
